@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978374412481",
+    "project_id": "iti-final-project-ce062",
+    "storage_bucket": "iti-final-project-ce062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978374412481:android:15e9d3f53b4e96c1426c40",
+        "android_client_info": {
+          "package_name": "com.flutter.iti.iti_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjmzyHzUvTzXrA1J5Vg5mR_OQ_ByZf2OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
